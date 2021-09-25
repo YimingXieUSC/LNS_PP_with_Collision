@@ -1,5 +1,4 @@
-/* my second program in C++
-   with more comments */
+/* MAPF LNS with PP collision first approach driver */
 
 #include <iostream>
 #include <vector>
@@ -81,9 +80,5 @@ int main ()
     // 3. given each agent a specific weight based on their shortest
     // 4. 
 
-//   int x;
-//   for(int i = 0; i < 100; i++){
-//     x = generate_random(1, 50);
-//     cout << x << endl;
-//   }
+
 }
